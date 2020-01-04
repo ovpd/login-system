@@ -1,4 +1,3 @@
-#FIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX регает когда ввел существующий в системе логин 
 def check(username, password):
 	''' checks if user IN or NOT '''
 	status = False
