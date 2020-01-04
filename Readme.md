@@ -11,7 +11,7 @@
 ***
 2) Проверка данных
 ***
-![Главное окно](https://sun9-23.userapi.com/c206624/v206624157/2648f/_D02UBvtfQI.jpg)
+![Главное окно](https://sun9-63.userapi.com/c855332/v855332029/1bf75b/OoKn3teEgcc.jpg)
 ***
 3) Скрытый файл .lp.txt в корне папки
 ***
@@ -20,5 +20,5 @@
 4) Логин
 ***
 ![Главное окно](https://sun9-25.userapi.com/c206624/v206624157/26496/hvhNqD-ix6g.jpg)
-![Главное окно](https://sun9-62.userapi.com/c206624/v206624157/2649d/MtTYFUHGuck.jpg)
+![Главное окно](https://sun9-56.userapi.com/c855332/v855332029/1bf76c/GUXNlcaGccM.jpg)
 

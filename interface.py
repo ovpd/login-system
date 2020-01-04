@@ -50,8 +50,8 @@ def sign_in_window():
 			root = Tk()
 			root.title("Congrats!")
 			root.geometry("450x350")
-			welcome_label = ttk.Label(root, text = "You are in!")
-			welcome_label.config(font=("Courier", 34))
+			welcome_label = ttk.Label(root, text = "You are inside!")
+			welcome_label.config(font=("Courier", 24))
 			welcome_label.place(x = 77, y = 125)
 
 	def congratulations_window():
@@ -118,7 +118,7 @@ def sign_up_window():
 			root.title("Status")
 			root.title("Congrats!")
 			root.geometry("450x350")
-			welcome_label = ttk.Label(root, text = "That's okay!")
+			welcome_label = ttk.Label(root, text = "Registered!")
 			welcome_label.config(font=("Courier", 34))
 			welcome_label.place(x = 77, y = 125)
 		else:
